@@ -1,0 +1,17 @@
+{
+    "name": "uk.co.andyjarrett.iosnfc",
+    "version": "1.0.0",
+    "displayName": "iosnfc",
+    "cordova": {
+        "platforms": [
+            "ios"
+        ],
+        "plugins": {
+            "phonegap-nfc": {}
+        }
+    },
+    "dependencies": {
+        "cordova-ios": "~4.4.0",
+        "phonegap-nfc": "~0.7.0"
+    }
+}
